@@ -21,3 +21,5 @@ An archive of good articles that I've read.
 [Giving better code reviews](https://mrjoelkemp.medium.com/giving-better-code-reviews-16109e0fdd36)
 
 [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)
+
+[My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
