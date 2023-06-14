@@ -23,3 +23,15 @@ An archive of good articles that I've read.
 [How to Review Code as a Junior Developer](https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958)
 
 [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
+
+[14 things I wish I knew at 25 (now that I’m 38)](https://iamalexmathers.medium.com/14-things-i-wish-i-knew-at-25-now-that-im-38-13daabe0c9cd)
+
+[Write tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
+
+[Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+
+[The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+
+[Meet Two Programmers Who Rejected a $1,000,000,000 Acquisition Offer From Google](https://levelup.gitconnected.com/two-programmers-turned-a-live-streaming-platform-into-a-1-000-000-000-company-rejected-a-google-1a1350038e33)
+
+[I Shall Call It.. SomethingManager](https://blog.codinghorror.com/i-shall-call-it-somethingmanager)
