@@ -35,3 +35,5 @@ An archive of good articles that I've read.
 [Meet Two Programmers Who Rejected a $1,000,000,000 Acquisition Offer From Google](https://levelup.gitconnected.com/two-programmers-turned-a-live-streaming-platform-into-a-1-000-000-000-company-rejected-a-google-1a1350038e33)
 
 [I Shall Call It.. SomethingManager](https://blog.codinghorror.com/i-shall-call-it-somethingmanager)
+
+[Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
