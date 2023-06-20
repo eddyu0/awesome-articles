@@ -37,3 +37,9 @@ An archive of good articles that I've read.
 [I Shall Call It.. SomethingManager](https://blog.codinghorror.com/i-shall-call-it-somethingmanager)
 
 [Thinking in React Query](https://tkdodo.eu/blog/thinking-in-react-query)
+
+[Fixing Race Conditions in React with useEffect](https://maxrozen.com/race-conditions-fetching-data-react-with-useeffect)
+
+[Best Practices and Design Patterns in React.js for High-Quality Applications](https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb)
+
+[Structure Your React Apps Like It’s 2030](https://blog.devgenius.io/structure-your-react-apps-like-its-2030-aef02097cb3)
