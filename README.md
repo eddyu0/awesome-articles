@@ -43,3 +43,15 @@ An archive of good articles that I've read.
 [Best Practices and Design Patterns in React.js for High-Quality Applications](https://medium.com/@obrm770/best-practices-and-design-patterns-in-react-js-for-high-quality-applications-6b203be747fb)
 
 [Structure Your React Apps Like It’s 2030](https://blog.devgenius.io/structure-your-react-apps-like-its-2030-aef02097cb3)
+
+[4 React Tips to Instantly Improve Your Code](https://javascript.plainenglish.io/4-react-tips-to-instantly-improve-your-code-7456e028cfa3)
+
+[The Dark Side of Software Engineering](https://levelup.gitconnected.com/the-dark-side-of-software-engineering-ee412b306ae9)
+
+[How is Software developed at Amazon?](https://medium.com/@jamesryebread/how-is-software-developed-at-amazon-9285c8fcc870)
+
+[A story about business value and system architectural trade-offs](https://medium.com/@asom_igor/a-story-about-business-value-and-architectural-trade-offs-2d2b33d721c2)
+
+[How to Conduct a Status Update like a Senior Engineer](https://pathtosenior.substack.com/p/how-to-conduct-a-status-update-like?utm_source=pocket_reader)
+
+[Node.js is Aging Like Milk, Now What’s Next?](https://javascript.plainenglish.io/node-js-is-aging-like-milk-now-whats-next-a4e726ae668f)
