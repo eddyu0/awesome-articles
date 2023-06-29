@@ -55,3 +55,5 @@ An archive of good articles that I've read.
 [How to Conduct a Status Update like a Senior Engineer](https://pathtosenior.substack.com/p/how-to-conduct-a-status-update-like?utm_source=pocket_reader)
 
 [Node.js is Aging Like Milk, Now What’s Next?](https://javascript.plainenglish.io/node-js-is-aging-like-milk-now-whats-next-a4e726ae668f)
+
+[Advice From a Software Engineer With 8 Years of Experience](https://betterprogramming.pub/advices-from-a-software-engineer-with-8-years-of-experience-8df5111d4d55#ca42)
